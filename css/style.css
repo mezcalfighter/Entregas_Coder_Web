@@ -1,61 +1,63 @@
-*{
-    padding: 0;
-    margin: 0;
-    font-family: 'Press Start 2P', cursive;
-    color: white;
-    font-size: small;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Press Start 2P", cursive;
+  color: white;
+  font-size: small;
+  box-sizing: border-box;
 }
 
-#header-menu{
-    background-color:dimgray;
+#header-menu {
+  background-color: dimgray;
 }
 
-#pie__box--twitter{
-    background-color:dimgray;
-    border: 2px solid black;
-    margin: 1vh;
-    padding: 1vh;
+#pie__box--twitter {
+  background-color: dimgray;
+  border: 2px solid black;
+  margin: 1vh;
+  padding: 1vh;
 }
 
-#frameworks{
-    border: 2px solid black;
-    border-radius: 1vh;
-    padding: 3%;
+#frameworks {
+  border: 2px solid black;
+  border-radius: 1vh;
+  padding: 3%;
 }
 
-#frontend{
-    border: 2px solid black;
-    border-radius: 1vh;
-    padding: 3%;
+#frontend {
+  border: 2px solid black;
+  border-radius: 1vh;
+  padding: 3%;
 }
 
-#form_contacto{
-    padding: 2px;
-    margin: 2px;
+#form_contacto {
+  padding: 2px;
+  margin: 2px;
 }
 
-.whoami{
-    border: 2px solid black;
-    border-radius: 1vh;
-    padding: 3%;
+.whoami {
+  border: 2px solid black;
+  border-radius: 1vh;
+  padding: 3%;
 }
 
-body{
-    background-color: slategrey;
+body {
+  background-color: slategrey;
 }
 
-ul li{
-    background-color: darkslategrey;
-    border: 2px solid black;
-    border-radius:1vh;
-    margin: 1vh 1vh 1vh 1vh;
+ul li {
+  background-color: darkslategrey;
+  border: 2px solid black;
+  border-radius: 1vh;
+  margin: 1vh 1vh 1vh 1vh;
 }
 
-input{
-    color: black;
+input {
+  color: black;
 }
 
-fieldset{
-    border: 2px solid black;
+fieldset {
+  border: 2px solid black;
 }
+
+/*# sourceMappingURL=style.css.map */
